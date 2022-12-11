@@ -4,11 +4,10 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Powerplay**
-- ⚙️ Tech Stack: `Swift`, `Dart`, `Flutter`, `iOS`, `Firebase`, `Java`
+- 🏢 Founder, CTO @**Vignam**
+- ⚙️ Tech Stack: `Swift`, `Dart`, `Flutter`, `iOS`, `Firebase`, `Java`, `Unity 3d`, `React`
 - 💬 Ping me about **development**, **design**, **product**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mithilesh-parmar-97395712b/) [Twitter](https://twitter.com/corleone_parmar) [Medium](https://medium.com/@mithileshparmar1) [Product Hunt](https://www.producthunt.com/@mithilesh_parmar1)
-- Fun Fact: That's not me in the Profile picture. 🤓
 
 
 ![Mithilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithilesh-parmar&count_private=true&show_icons=true&theme=tokyonight)
