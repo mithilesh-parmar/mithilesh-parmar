@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Mobile Application Developer working in Bangalore, India.
+
 
 ##### BIO
 
